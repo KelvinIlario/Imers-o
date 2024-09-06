@@ -1,0 +1,23 @@
+let dados = [
+    {
+        titulo : "Sussurro",
+        descricao :"Nora Grey é uma garota extremamente responsável e estudiosa, que sempre faz as coisas certas. Mantendo planos para conseguir entrar numa boa faculdade, Nora vê sua vida mudar drasticamente com a chegada de Patch, seu novo parceiro de biologia, extremamente atraente e misterioso, que parece saber mais sobre sua vida do que ela mesma. Impulsionada a descobrir mais sobre seu passado e sobre seu comportamento misterioso, Nora passa a investigar Patch, e a inevitavelmente se aproximar dele, sem saber que estaria colocando sua vida em risco. Mais tarde, Nora descobre que Patch é na verdade um anjo caído do céu por cobiçar a vida humana, e que aparentemente deseja matá-la por causa de sua descendência Nefilim e ter um corpo humano próprio. No entanto, os dois acabam se apaixonando, o que coloca suas vidas em perigo já que um Nephilim (criatura feita a partir da relação de anjos caídos com seres humanos) deseja vingança com Patch.",
+        link : "https://pt.wikipedia.org/wiki/Hush,_Hush"
+    },
+    {
+        titulo: "Crescendo",
+        descricao: "A vida de Nora Grey ainda está longe de ser perfeita. Sofrer uma tentativa de assassinato não foi a melhor das experiências, mas, pelo menos, Nora ganhou um anjo da guarda: Patch, que de angelical não tem absolutamente nada, e, o pior: parece muito interessado na grande inimiga de Nora, Marcie Millar. Se não fosse pelo interesse de Patch em Marcie, Nora jamais teria notado Scott Parnell, velho amigo da família que acaba de voltar para a cidade. Ainda que Scott a deixe furiosa na maior parte do tempo, é impossível não se sentir atraída. Lá no fundo, porém, ela tem certeza de que ele guarda um segredo.Atormentada por repetidas visões do pai, inexplicavelmente assassinado anos antes, Nora começa se perguntar se haveria alguma conexão entre a morte dele e o fato de pertencerem a uma linhagem de nefilins. Ela quer descobrir o que realmente aconteceu, mas isso é muito arriscado. Algumas verdades ficam melhor mortas e enterradas - do contrário, podem destruir tudo em que você acredita.",
+        link: "https://en.wikipedia.org/wiki/Crescendo_(Fitzpatrick_novel)"
+    },
+    {
+        titulo: "Silêncio",
+        descricao: "Nora Grey não consegue se lembrar dos últimos cinco meses. Depois do choque inicial de acordar em um cemitério e descobrir que ficou desaparecida por semanas, ela precisa retomar sua rotina, voltar à escola, reencontrar a melhor amiga, Vee, e ainda aprender a conviver com o novo namorado da mãe. Em meio a tudo isso, Nora é assombrada por constantes pensamentos com a cor preta, que surge em sua mente nos momentos mais improváveis e parece conversar com ela. Alucinações, visões de anjos, criaturas sobrenaturais. Aparentemente, nada disso tem a ver com sua antiga vida. A sensação é de que parte dela se perdeu. É então que o caminho de Nora cruza o de um sexy desconhecido, a quem ela se sente estranhamente ligada. Ele parece saber todas as respostas... e também o caminho até o coração de Nora. Cada minuto a seu lado confirma isso, até que Nora se dá conta de que pode estar apaixonada.De novo “O relacionamento tempestuoso entre Nora e Patch, o típico bad-boy, é verdadeira e perturbadoramente sedutor.” Logo no início, as pessoas mentem para Nora,na intenção de esconder sobre Patch",
+        link: "https://pt.wikipedia.org/wiki/Sil%C3%AAncio_(livro)"
+    },
+    {
+        titulo: "Finale",
+        descricao: "Nora Grey não consegue se lembrar dos últimos cinco meses. Depois do choque inicial de acordar em um cemitério e descobrir que ficou desaparecida por semanas, ela precisa retomar sua rotina, voltar à escola, reencontrar a melhor amiga, Vee, e ainda aprender a conviver com o novo namorado da mãe. Em meio a tudo isso, Nora é assombrada por constantes pensamentos com a cor preta, que surge em sua mente nos momentos mais improváveis e parece conversar com ela. Alucinações, visões de anjos, criaturas sobrenaturais. Aparentemente, nada disso tem a ver com sua antiga vida. A sensação é de que parte dela se perdeu. É então que o caminho de Nora cruza o de um sexy desconhecido, a quem ela se sente estranhamente ligada. Ele parece saber todas as respostas... e também o caminho até o coração de Nora. Cada minuto a seu lado confirma isso, até que Nora se dá conta de que pode estar apaixonada.De novo “O relacionamento tempestuoso entre Nora e Patch, o típico bad-boy, é verdadeira e perturbadoramente sedutor.” Logo no início, as pessoas mentem para Nora,na intenção de esconder sobre Patch",
+        link: "https://hushhush.fandom.com/wiki/Finale"
+    }
+];
+
